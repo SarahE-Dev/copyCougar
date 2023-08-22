@@ -1,0 +1,26 @@
+* { box-sizing: border-box;
+margin: 0;
+padding: 0; }
+
+
+.verytop { height: 70px; 
+display: flex; 
+justify-content: space-between; 
+width: 100%;
+align-items: center;}
+
+.nav { display: flex;
+justify-content: space-evenly;}
+
+.topnav { text-decoration: none; 
+color: black; 
+font-weight: lightest; 
+font-size: 12px; 
+padding: 5px;}
+
+#logo { width: 200px; }
+
+.icon { width: 20px; }
+
+.iconline { display: flex; 
+align-items: center;}
