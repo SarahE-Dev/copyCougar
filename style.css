@@ -3,7 +3,7 @@ margin: 0;
 padding: 0; }
 
 
-.verytop { height: 70px; 
+.verytop { height: 10%; 
 display: flex; 
 justify-content: space-between; 
 width: 100%;
@@ -20,7 +20,23 @@ padding: 5px;}
 
 #logo { width: 200px; }
 
+.buynow {background-color: lightskyblue;
+width: 175px;
+height: 70px;
+border-radius: 35px;
+display: flex;
+align-items: center;
+justify-content: center;}
+
 .icon { width: 20px; }
 
 .iconline { display: flex; 
 align-items: center;}
+
+.mainimage { display: flex;
+justify-content: center;
+align-items: center;
+height: 90%;}
+
+#mainimg { height: 700px;
+border-radius: 50px; }
